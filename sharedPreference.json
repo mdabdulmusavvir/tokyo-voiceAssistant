@@ -1,0 +1,16 @@
+{
+	"users":[
+		{
+			"name":"Md Abdul Musavvir",
+			"img_path": "/home/lovely/Documents/Mini_Project_Offical/py_Images/1.png"
+		},
+		{
+			"name":"Bill Gates",
+			"img_path": "/home/lovely/Documents/Mini_Project_Offical/py_Images/2.jpg"
+		},
+		{
+			"name":"Nossam Vignatha",
+			"img_path": "/home/lovely/Documents/Mini_Project_Offical/py_Images/3.png"
+		}
+	]
+}
