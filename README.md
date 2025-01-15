@@ -1,4 +1,4 @@
-# tokyo-voiceAssistant
+# tokyo-thevoiceAssistant
 
 # Project Aim and Objective :- 
 The Objective of our project is to create a personal voice assistant using python.This
